@@ -8,7 +8,7 @@
   不得复制、改编、再分发、公开传播或用于衍生作品。
 - **可否引用**：可以。允许在**注明出处**的前提下引用与学术、公共讨论；
   引用时请同时标注仓库名、原文链接 `https://github.com/zhaoxinghua09-cell/runtigil`
-  与权利人「赵兴华 / Steven Zhao·China」。
+  与权利人：© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
 - **完整条款**：见仓库根目录 [LICENSE](LICENSE)。
 - **联系**：zhaoxinghua06@126.com ｜ ORCID 0009-0001-0512-1237
 - **品牌状态限定**：MedXpert、SynomosAI、LGD 等为相关项目标识，
@@ -80,7 +80,7 @@ If you use or cite this term, please reference:
 
 ## Author
 
-**赵兴华 / Steven Zhao·China**
+**Author**: 赵兴华 / Steven Zhao
 ORCID [0009-0001-0512-1237](https://orcid.org/0009-0001-0512-1237) · https://medxpert.cn
 
 Proposed and named 2026-09-10. Co-created with Lao Paidang (老拍档), AI research partner.
