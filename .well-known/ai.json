@@ -1,0 +1,12 @@
+{
+  "schema": "ai-manifest/v1",
+  "repository": "zhaoxinghua09-cell/runtigil",
+  "role": "Code/tool repo: see README for a one-paragraph role statement.",
+  "what_it_is": "Runtigil (运行时门禁治理 / Runtime Gatekeeping) — LGD Theoretic Term. Gatekeeping enforced while an autonomous thing is running, not only at design time. Theory-layer zero-collision coined term.",
+  "what_it_is_not": "Not a third-party certification, compliance finding, or regulatory approval. Claims about quality are the author's own and separately labelled.",
+  "reproduce": "See the repository README for how to run or read the material; commands are verbatim and require no private network.",
+  "contact": "zhaoxinghua09-cell",
+  "evidence_state": "Machine-generated manifest, 2026-11-22. Descriptive fields mirror the repository description verbatim; no quality claim is asserted here.",
+  "last_verified": "2026-11-22",
+  "claims_policy": "No first-in-class, greenfield, or only-implementation claims. Each comparison states its own boundary."
+}
